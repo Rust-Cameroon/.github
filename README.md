@@ -1,2 +1,2 @@
-# .github
+# Profile Repo
 Who we are
