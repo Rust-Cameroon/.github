@@ -4,5 +4,5 @@ Rust-Cameroon is a Rust community for Cameroonian Rust lovers and passionate dev
 memory-safe products.
 
 Do you want to be convinced that Rust is worth learning? Let us show you the [True Nature of the Force.](https://brson.github.io/fireflowers/)
-## Useful resources
+## [Useful resources](https://github.com/Rust-Cameroon/useful-resources)
 ## [Contribution guidelines](https://github.com/Rust-Cameroon/.github/blob/main/Contribution.md)
