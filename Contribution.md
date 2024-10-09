@@ -1,4 +1,4 @@
-# Contributing to Rust
+# Contributing to Rust-Cameroon
 
 Thank you for your interest in contributing to Rust-Cameroon! There are many ways to contribute and we appreciate all of them.
 
