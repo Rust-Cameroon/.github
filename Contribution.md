@@ -6,4 +6,4 @@ The best way to get started is by asking for help in the [Discord](https://disco
 
 ## CONTRIBUTORS CODE OF CONDUCT
 
-All contributions to this repository are to respect the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct)
+All contributions to this repository are to respect the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct).
